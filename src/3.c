@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//3.Lê um número e mostra seu sucessor e seu antecessor na tela.
 
 int main(){
 

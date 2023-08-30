@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//14. Lê um valor de hora e informa quantos minutos se passaram desde o início do dia.
 
 int main() {
     

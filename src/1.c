@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//1.Mostrar na tela o produto entre 28 e 43.
 
 int main(){
 

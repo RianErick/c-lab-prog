@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//7.Leia 4 números e mostre a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4.
 
 int main() {
     float num1, num2, num3, num4;

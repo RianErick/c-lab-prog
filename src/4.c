@@ -1,16 +1,20 @@
 #include <stdio.h>
 
-//4. Lê dois números e mostra a soma. Ante do resultado, deverá aparecer a mensagem: SOMA.
 
 int main(){
 
 int n1;
+
 int n2;
 
+
 printf("%s \n" , "Numero 1 -");
+
 scanf("%d" , &n1);
 
+
 printf("%s \n" , "Numero 2- ");
+
 scanf("%d" , &n2);
 
 int value = n1 + n2;
