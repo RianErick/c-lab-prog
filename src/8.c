@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//8.Lê o saldo de uma aplicação e imprima o novo saldo, considerado o reajuste de 1%.
 
 int main() {
     float saldo, saldonovo;

@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+//6. Lê dois números e mostre os seguintes resultados:
+//a. Dividendo:
+//b. Divisor:
+//c. Quociente:
+//d. Resto (para calcular o resto de uma divisão, utilize o operador MOD (em C: %)
+
 int main() {
     int num1, num2;
 

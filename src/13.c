@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//13. Leia o numerador e o denominador de uma fração e transforme-o em um número decimal.
 
 int main() {
     int numerador, denominador;

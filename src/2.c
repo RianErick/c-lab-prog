@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//2.Mostrar a média aritmética entre 3 números passados pelo usuário.
+
 int main(){
 
 int n1 ,n2 ,n3 , media;

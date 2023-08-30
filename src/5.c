@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//5.Lê um número e mostra a terça parte deste número.
+
 int main(){
 
 int n1;

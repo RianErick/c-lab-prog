@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//11.Calcule e mostre a área de um triângulo (área é igual a (base x altura) dividido por 2)
 
 int main() {
     

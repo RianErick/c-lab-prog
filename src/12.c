@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//12.Calcule o valor de uma prestação em atraso, utilizando a fórmula: PRESTAÇÃO = VALOR + (VALOR * (TAXA/100) * TEMPO).
 
 int main() {
 

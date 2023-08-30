@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//10. Lê o raio de um círculo e mostre como saída o perímetro (2*π*Raio) e a área (π*Raio2).
 
 int main() {
  float raio, pi=3.14, area, perimetro;

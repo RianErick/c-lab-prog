@@ -1,16 +1,24 @@
 #include <stdio.h>
-#include <stdlib.h>
+
+//14. Lê um valor de hora e informa quantos minutos se passaram desde o início do dia.
 
 int main() {
     
-    int hora, minuto;
+    int hora, min, min_passados;
 
-    printf("\nInforme a hora (formato 24h): ");
+    printf("\nInforme a hora (0 a 23): ");
     scanf("%d", &hora);
+    printf("\nInforme os minutos (0 a 59): ");
+    scanf("%d", &min);
 
-    minuto = hora * 60;
+    if (hora >= 0 && hora <= 23 && min >= 0 && min <= 59) {
+        min_passados = (hora * 60) + min;
 
-    printf("Já se passaram %d minutos desde o início do dia!", minuto);
+        printf("Já se passaram %d minutos desde o início do dia!\n", min_passados);
+    } else {
+        printf("Informe um horário válido\n");
+    }
+
 
     return 0;
 }

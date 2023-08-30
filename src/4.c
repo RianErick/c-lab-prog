@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//4. Lê dois números e mostra a soma. Ante do resultado, deverá aparecer a mensagem: SOMA.
+
 int main(){
 
 int n1;
