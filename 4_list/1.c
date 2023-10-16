@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//1. Leia 3 valores inteiros (X, Y, Z), determina e escreve o menor deles.
-
 int main(void) {
   int x, y, 
   printf("Digite o primeiro valor: ");

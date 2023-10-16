@@ -2,10 +2,8 @@
 
 int main(void) {
   int num_mes;
-  
   printf("Informe um número do mês (1 a 12): ");
   scanf("%d", &num_mes);
-
     if (num_mes == 1) {
       printf("Janeiro\n");
     } else if (num_mes == 2) {
