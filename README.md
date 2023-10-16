@@ -1,4 +1,5 @@
 # Laboratório de Programação em C
+## Rian Erick e Geovana Castro
 
 ## Introdução
 
