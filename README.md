@@ -1,7 +1,7 @@
 
 # Laboratório de Programação em C
 
-## Rian Erick Silva
+## Rian 
 
 ## Introdução
 

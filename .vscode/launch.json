@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/geovana/Documentos/lab-c/c-lab-prog/Lista6",
-      "program": "/home/geovana/Documentos/lab-c/c-lab-prog/Lista6/build/Debug/outDebug",
+      "cwd": "/home/rian/Projetos/n1-lab-c/list_of_lab_progamming_in_c/6_list",
+      "program": "/home/rian/Projetos/n1-lab-c/list_of_lab_progamming_in_c/6_list/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
