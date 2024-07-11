@@ -2,7 +2,6 @@
 ## Rian Erick e Geovana Castro
 
 ## Introdução
-[gameingo.webm](https://github.com/user-attachments/assets/bddf99f6-6ef2-4cbb-9302-bf8a6a0e4b18)
 
 Este readme fornece informações sobre a cadeira de Laboratório de Programação em C. Ele inclui informações sobre os objetivos da cadeira, o conteúdo programático, as avaliações e as referências bibliográficas.
 
